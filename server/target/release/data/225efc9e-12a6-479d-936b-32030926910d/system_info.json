@@ -1,0 +1,193 @@
+{
+    "disks": [
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo",
+            "file_system": "zfs",
+            "mount_point": "/",
+            "total_space": "262241517568",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/USERDATA/root_qh3nn9",
+            "file_system": "zfs",
+            "mount_point": "/root",
+            "total_space": "253784096768",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/srv",
+            "file_system": "zfs",
+            "mount_point": "/srv",
+            "total_space": "253757358080",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/usr/local",
+            "file_system": "zfs",
+            "mount_point": "/usr/local",
+            "total_space": "253781737472",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/lib",
+            "file_system": "zfs",
+            "mount_point": "/var/lib",
+            "total_space": "267393826816",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/log",
+            "file_system": "zfs",
+            "mount_point": "/var/log",
+            "total_space": "254049124352",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/games",
+            "file_system": "zfs",
+            "mount_point": "/var/games",
+            "total_space": "253757358080",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/mail",
+            "file_system": "zfs",
+            "mount_point": "/var/mail",
+            "total_space": "253757358080",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/snap",
+            "file_system": "zfs",
+            "mount_point": "/var/snap",
+            "total_space": "253758799872",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/spool",
+            "file_system": "zfs",
+            "mount_point": "/var/spool",
+            "total_space": "253757358080",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/www",
+            "file_system": "zfs",
+            "mount_point": "/var/www",
+            "total_space": "253757358080",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/USERDATA/rh_qh3nn9",
+            "file_system": "zfs",
+            "mount_point": "/home/rh",
+            "total_space": "468419346432",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/lib/NetworkManager",
+            "file_system": "zfs",
+            "mount_point": "/var/lib/NetworkManager",
+            "total_space": "253757489152",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/lib/AccountsService",
+            "file_system": "zfs",
+            "mount_point": "/var/lib/AccountsService",
+            "total_space": "253757358080",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/lib/dpkg",
+            "file_system": "zfs",
+            "mount_point": "/var/lib/dpkg",
+            "total_space": "253811621888",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo/var/lib/apt",
+            "file_system": "zfs",
+            "mount_point": "/var/lib/apt",
+            "total_space": "253847142400",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        },
+        {
+            "name": "bpool/BOOT/ubuntu_wru9bo",
+            "file_system": "zfs",
+            "mount_point": "/boot",
+            "total_space": "1877868544",
+            "available_space": "1578237952",
+            "is_removable": "false"
+        },
+        {
+            "name": "/dev/nvme0n1p1",
+            "file_system": "vfat",
+            "mount_point": "/boot/efi",
+            "total_space": "535805952",
+            "available_space": "521736192",
+            "is_removable": "false"
+        },
+        {
+            "name": "/dev/nvme0n1p1",
+            "file_system": "vfat",
+            "mount_point": "/boot/grub",
+            "total_space": "535805952",
+            "available_space": "521736192",
+            "is_removable": "false"
+        },
+        {
+            "name": "rpool/ROOT/ubuntu_wru9bo",
+            "file_system": "zfs",
+            "mount_point": "/var/snap/firefox/common/host-hunspell",
+            "total_space": "262241517568",
+            "available_space": "253757227008",
+            "is_removable": "false"
+        }
+    ],
+    "networks": [
+        {
+            "name": "wlp4s0",
+            "mac_address": "7066-5516-5691"
+        },
+        {
+            "name": "eno1",
+            "mac_address": "8c8c-aa4d-3938"
+        },
+        {
+            "name": "lo",
+            "mac_address": "00-00-00"
+        }
+    ],
+    "system": {
+        "name": "Ubuntu",
+        "kernel": "5.19.0-26-generic",
+        "os_version": "22.10",
+        "host_name": "rhpc",
+        "cpu": 16,
+        "total_memory": 24539418624,
+        "total_swap": 2147479552,
+        "username": "root",
+        "languages": [
+            "en-US",
+            "en"
+        ],
+        "local_ip": "192.168.1.14"
+    }
+}
